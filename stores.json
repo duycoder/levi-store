@@ -1,0 +1,164 @@
+{
+    "stores": [
+        {
+            "name": "Levi's Seoul Main Store",
+            "address": "123 Seoul-ro, Jung-gu, Seoul",
+            "classification": "Flagship Store",
+            "hours": ["Mon-Fri: 10:00 AM - 8:00 PM", "Sat-Sun: 11:00 AM - 9:00 PM"],
+            "telephone": "02-1234-5678",
+            "coord": {"lat": 37.5665, "lon": 126.9780}
+        },
+        {
+            "name": "Levi's Gangnam Store",
+            "address": "456 Gangnam-daero, Gangnam-gu, Seoul",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 9:00 PM"],
+            "telephone": "02-5678-1234",
+            "coord": {"lat": 37.4979, "lon": 127.0276}
+        },
+        {
+            "name": "Levi's Myeongdong Store",
+            "address": "789 Myeongdong-gil, Jung-gu, Seoul",
+            "classification": "Retail Store",
+            "hours": ["Mon-Fri: 10:00 AM - 8:00 PM", "Sat-Sun: 10:00 AM - 10:00 PM"],
+            "telephone": "02-8765-4321",
+            "coord": {"lat": 37.5636, "lon": 126.9865}
+        },
+        {
+            "name": "Levi's Busan Haeundae Store",
+            "address": "123 Haeundae-ro, Haeundae-gu, Busan",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 10:00 PM"],
+            "telephone": "051-1234-5678",
+            "coord": {"lat": 35.1587, "lon": 129.1604}
+        },
+        {
+            "name": "Levi's Jeju Store",
+            "address": "1 Jungang-ro 7-gil, Jeju-si, Jeju-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 9:00 AM - 8:00 PM"],
+            "telephone": "070-4548-9000",
+            "coord": {"lat": 33.4996, "lon": 126.5312}
+        },
+        {
+            "name": "Levi's Daegu Store",
+            "address": "789 Dongseong-ro, Jung-gu, Daegu",
+            "classification": "Outlet Store",
+            "hours": ["Mon-Fri: 10:00 AM - 8:00 PM", "Sat-Sun: 11:00 AM - 9:00 PM"],
+            "telephone": "053-5678-1234",
+            "coord": {"lat": 35.8714, "lon": 128.6014}
+        },
+        {
+            "name": "Levi's Incheon Store",
+            "address": "101 Bupyeong-ro, Bupyeong-gu, Incheon",
+            "classification": "Retail Store",
+            "hours": ["Mon-Fri: 10:00 AM - 8:00 PM", "Sat-Sun: 10:00 AM - 9:00 PM"],
+            "telephone": "032-8765-4321",
+            "coord": {"lat": 37.4563, "lon": 126.7052}
+        },
+        {
+            "name": "Levi's Ulsan Store",
+            "address": "202 Samsan-ro, Nam-gu, Ulsan",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 8:00 PM"],
+            "telephone": "052-3456-7890",
+            "coord": {"lat": 35.5384, "lon": 129.3114}
+        },
+        {
+            "name": "Levi's Suwon Store",
+            "address": "303 Paldal-ro, Paldal-gu, Suwon-si, Gyeonggi-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 9:00 PM"],
+            "telephone": "031-1234-5678",
+            "coord": {"lat": 37.2636, "lon": 127.0286}
+        },
+        {
+            "name": "Levi's Gwangju Store",
+            "address": "404 Sangmu-daero, Seo-gu, Gwangju",
+            "classification": "Retail Store",
+            "hours": ["Mon-Fri: 10:00 AM - 8:00 PM", "Sat-Sun: 11:00 AM - 9:00 PM"],
+            "telephone": "062-5678-4321",
+            "coord": {"lat": 35.1595, "lon": 126.8526}
+        },
+        {
+            "name": "Levi's Daejeon Store",
+            "address": "505 Dunsan-ro, Seo-gu, Daejeon",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 8:00 PM"],
+            "telephone": "042-8765-1234",
+            "coord": {"lat": 36.3523, "lon": 127.3845}
+        },
+        {
+            "name": "Levi's Paju Outlet",
+            "address": "606 Paju-ro, Paju-si, Gyeonggi-do",
+            "classification": "Outlet Store",
+            "hours": ["Mon-Fri: 10:00 AM - 8:00 PM", "Sat-Sun: 10:00 AM - 9:00 PM"],
+            "telephone": "031-6789-4321",
+            "coord": {"lat": 37.7598, "lon": 126.7798}
+        },
+        {
+            "name": "Levi's Seongnam Store",
+            "address": "707 Bundang-ro, Bundang-gu, Seongnam-si, Gyeonggi-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 9:00 PM"],
+            "telephone": "031-5432-9876",
+            "coord": {"lat": 37.3831, "lon": 127.1219}
+        },
+        {
+            "name": "Levi's Yongin Store",
+            "address": "808 Everland-ro, Cheoin-gu, Yongin-si, Gyeonggi-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 9:00 PM"],
+            "telephone": "031-1234-5678",
+            "coord": {"lat": 37.2392, "lon": 127.1776}
+        },
+        {
+            "name": "Levi's Ilsan Store",
+            "address": "909 Lake Park-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Fri: 10:00 AM - 8:00 PM", "Sat-Sun: 11:00 AM - 9:00 PM"],
+            "telephone": "031-9876-5432",
+            "coord": {"lat": 37.6456, "lon": 126.7911}
+        },
+        {
+            "name": "Levi's Chuncheon Store",
+            "address": "1010 Chuncheon-ro, Chuncheon-si, Gangwon-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 8:00 PM"],
+            "telephone": "033-1234-5678",
+            "coord": {"lat": 37.8813, "lon": 127.7298}
+        },
+        {
+            "name": "Levi's Pohang Store",
+            "address": "1111 Hyoja-ro, Buk-gu, Pohang-si, Gyeongsangbuk-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Fri: 10:00 AM - 8:00 PM", "Sat-Sun: 11:00 AM - 9:00 PM"],
+            "telephone": "054-5678-4321",
+            "coord": {"lat": 36.0190, "lon": 129.3435}
+        },
+        {
+            "name": "Levi's Gyeongju Store",
+            "address": "1212 Bomun-ro, Gyeongju-si, Gyeongsangbuk-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 9:00 PM"],
+            "telephone": "054-8765-1234",
+            "coord": {"lat": 35.8562, "lon": 129.2247}
+        },
+        {
+            "name": "Levi's Andong Store",
+            "address": "1313 Jungang-ro, Andong-si, Gyeongsangbuk-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 8:00 PM"],
+            "telephone": "054-5432-9876",
+            "coord": {"lat": 36.5684, "lon": 128.7294}
+        },
+        {
+            "name": "Levi's Jinju Store",
+            "address": "1414 Namgang-ro, Jinju-si, Gyeongsangnam-do",
+            "classification": "Retail Store",
+            "hours": ["Mon-Sun: 10:00 AM - 8:00 PM"],
+            "telephone": "055-4321-6789",
+            "coord": {"lat": 35.1802, "lon": 128.1076}
+        }
+    ]
+}
