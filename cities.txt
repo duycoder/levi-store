@@ -1,0 +1,62 @@
+강남구 - Gangnam-gu
+남양주 - Namyangju
+송파구 - Songpa-gu
+고양시 일산서구 - Ilsanseo-gu, Goyang-si
+파주시 - Paju-si
+무안군 - Muan-gun
+연수구 - Yeonsu-gu, Incheon
+달서구 - Dalseo-gu, Daegu
+부평구 - Bupyeong-gu, Incheon
+성남시 분당구 - Bundang-gu, Seongnam-si
+서구 (인천광역시) - Seo-gu, Incheon
+창원시 마산합포구 - Masanhappo-gu, Changwon-si
+김천시 - Gimcheon-si
+김제시 용지면 - Yongji-myeon, Gimje-si
+군산시 - Gunsan-si
+청주시 흥덕구 - Heungdeok-gu, Cheongju-si
+용인시 기흥구 - Giheung-gu, Yongin-si
+수원시 영통구 - Yeongtong-gu, Suwon-si
+순천시 - Suncheon-si
+제주시 - Jeju-si
+수원시 - Suwon-si
+금천구 - Geumcheon-gu
+서초구 - Seocho-gu
+기장군 - Gijang-gun
+남구 (울산광역시) - Nam-gu, Ulsan
+이천시 - Icheon-si
+여주시 - Yeoju-si
+동구 (대구광역시) - Dong-gu, Daegu
+북구 (대구광역시) - Buk-gu, Daegu
+성북구 - Seongbuk-gu
+의정부시 - Uijeongbu-si
+안산시 - Ansan-si
+진주시 - Jinju-si
+김해시 - Gimhae-si
+영등포구 - Yeongdeungpo-gu
+광명시 - Gwangmyeong-si
+중구 (서울특별시) - Jung-gu, Seoul
+성남시 수정구 - Sujeong-gu, Seongnam-si
+천안시 서북구 - Seobuk-gu, Cheonan-si
+천안시 동남구 - Dongnam-gu, Cheonan-si
+부여군 규암면 - Gyuyam-myeon, Buyeo-gun
+안성시 - Anseong-si
+포항시 북구 - Buk-gu, Pohang-si
+구리시 - Guri-si
+광산구 - Gwangsan-gu
+은평구 - Eunpyeong-gu
+동대문구 - Dongdaemun-gu
+서구 (대전광역시) - Seo-gu, Daejeon
+대덕구 (대전광역시) - Daedeok-gu, Daejeon
+유성구 - Yuseong-gu
+송파구 - Songpa-gu
+시흥시 - Siheung-si
+평택시 - Pyeongtaek-si
+용산구 - Yongsan-gu
+대전광역시 - Daejeon
+강서구 - Gangseo-gu
+부산진구 - Busanjin-gu
+해운대구 - Haeundae-gu
+동구 (울산광역시) - Dong-gu, Ulsan
+거제시 - Geoje-si
+광주광역시 - Gwangju
+광진구 - Gwangjin-gu
